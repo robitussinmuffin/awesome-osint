@@ -436,7 +436,7 @@ algorithms, knowledgebase and AI technology.
 
 
 ## [↑](#-table-of-contents) People Investigations
-
+* [True People Search](http://truepeoplesearch.com) - Good free info. extremely impressed by how good this is tbh.
 * [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
 * [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
 * [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
